@@ -1,0 +1,42 @@
+.profile{
+    width: 80%; height: 100%;
+    border-radius: 50%; display: inline-block;
+}
+.profile-div{
+    text-align: center;
+    height: 100px; width: 20%;
+}
+.info{
+    height: 100px;
+    width: 80%;
+}
+
+.searchtxt{
+    width: 50%;
+    padding: 5px;
+    margin: 0px 20px;
+
+}
+
+.searchdiv {
+    margin:10px;
+    color: black;
+}
+.list-main{
+    margin-top: 10px;
+}
+.list{
+    float: left;
+    padding: 10px;
+    background-color: white;
+    color:black;
+}
+.main{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.lbl{
+    font-size: 20px;
+    color: white;
+}
